@@ -6,7 +6,7 @@ const Header = () => {
         <div className="header-wraper">
 
         <div className= "main-info">
-            <h1>this is header</h1>
+            <h1>I am Rafiul Ferdous</h1>
             <Typed 
 
                 className="typed-text"
